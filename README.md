@@ -28,7 +28,7 @@ Key Insights
 
 - **Trend Adaptation**: SPY had a strong bullish trend in 2023–24, making short positions less effective.
 - **Momentum Complementarity**: Adding a momentum filter to the mean reversion setup significantly improved returns and Sharpe.
-- **Z-score Superiority**: Z-score proved to be a more stable signal than RSI in this use case.
+- **Z-score Superiority**: Z-score proved to be a more stable signal than RSI in this use case. Realised in periods of low volatality at highs and lows z score reacts faster as compared to RSI.
 
 
 Limitations & Potential Biases
