@@ -35,8 +35,6 @@ Limitations & Potential Biases
 
 - **Bull Market Bias**: The strategy performs well in upward-trending markets; may underperform in flat or bearish regimes.
 - **Overfitting Risk**: Insights are based on only two years of data (2023–24).
-- **Lookahead Bias Check Needed**: Ensure that moving average and z-score calculations don't inadvertently use future data.
-
 
 Future Improvements
 
